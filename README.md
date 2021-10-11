@@ -10,3 +10,7 @@ Lately I've been obsessed with self-driving cars, so I picked up the scholarly a
 What I found interesting was how we assume self-driving vehicles will automatically make our lives better. The appeal will definitely be there. No more waiting for parking spots, waiting in traffic, or walking to your car. Every inconvenience will be automated. The problem revealed to me by this article is that by the year 2035, only one third of vehicles on the road will be autonomous. With more congestion there will be more accidents with conventional cars and a deteriorating road situation. This is the opposite outcome of the impact self-driving vehicles are expected to have. It is also predicited that transportation services will be the first to transmission to self-driving, with individuals following suit. This would take a toll on employment opportunities that consist of driving. 
 
 However, the problem of slow adoption of self-driving cars can be combated with government regulations and incentives to purchase self-driving electric vehicles. 
+
+### Comment
+- By Rajan Bharaj (rtb325)
+Nice job on your assignment. While I agree the integration of self-driving cars will undoubtebly a long and arduous government process, I think the value of having fully autonomous road systems in the long run far outweighs the initial difficulties. 95% of accidents are caused by human error, so for safety alone, you are looking at huge improvements.
